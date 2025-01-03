@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "statement": "Wisconsin is on pace to double the number of layoffs this year.",
+        "true": 0,
+        "topic": "Economics"
+    },
+    {
+        "id": 2,
+        "statement": "The government controls the weather using technology.",
+        "true": 0,
+        "topic": "Conspiracy"
+    }
+]

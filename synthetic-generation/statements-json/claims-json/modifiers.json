@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1, 
+        "modifier": "Everyone knows {statement}", 
+        "category": "Assumptive Language", 
+        "negation": 0
+    },
+    {
+        "id": 13, 
+        "modifier": "It's a common misconception that {statement}", 
+        "category": "", 
+        "negation": 1
+    }
+]
