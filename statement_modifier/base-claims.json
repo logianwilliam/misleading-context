@@ -10,5 +10,113 @@
         "statement": "The government controls the weather using technology.",
         "true": 0,
         "topic": "Conspiracy"
+    },
+    {
+        "id": 3,
+        "statement": "The federal government has paid out $601 million in retirement and disability benefits to deceased former federal employees.",
+        "true": 1,
+        "topic": "Government policy"
+    },
+    {
+        "id": 4,
+        "statement": "There was a time when someone like Scalia and Ginsburg got 95-plus votes.",
+        "true": 1,
+        "topic": "Politics"
+    },
+    {
+        "id": 5,
+        "statement": "A proposed tax to fund transportation projects would cost $90k to take a single vehicle off the road during the morning and afternoon commute.",
+        "true": 0,
+        "topic": "Economics"
+    },
+    {
+        "id": 6,
+        "statement": "Bill and Hillary Clinton attended Donald Trump’s last wedding.",
+        "true": 1,
+        "topic": "Politics"
+    },
+    {
+        "id": 7,
+        "statement": "Before World War II, very few people had health insurance.",
+        "true": 1,
+        "topic": "History"
+    },
+    {
+        "id": 8,
+        "statement": "Of the roughly 15% of Americans who don’t have health insurance, half of them make more than $50,000 a year.",
+        "true": 0,
+        "topic": "Economics"
+    },
+    {
+        "id": 9,
+        "statement": "16 million jobs were created under Ronald Reagan's presidency.",
+        "true": 1,
+        "topic": "Economics and Politics"
+    },
+    {
+        "id": 10,
+        "statement": "Wind power is the most undependable form of renewable energy.",
+        "true": 0,
+        "topic": "Environment"
+    },
+    {
+        "id": 11,
+        "statement": "Gravity is a force that attracts objects with mass toward each other.",
+        "true": 1,
+        "topic": "Science"
+    },
+    {
+        "id": 12,
+        "statement": "Water boils faster with salt.",
+        "true": 0,
+        "topic": "Science"
+    },
+    {
+        "id": 13,
+        "statement": "The Eiffel Tower is located in Paris, France.",
+        "true": 1,
+        "topic": "Geography"
+    },
+    {
+        "id": 14,
+        "statement": "The Mona Lisa was painted by Vincent Van Gogh.",
+        "true": 0,
+        "topic": "Art and History"
+    },
+    {
+        "id": 15,
+        "statement": "Pineapples grow under the ground like potatoes.",
+        "true": 0,
+        "topic": "Agriculture"
+    },
+    {
+        "id": 16,
+        "statement": "Antarctica is the coldest place on Earth.",
+        "true": 1,
+        "topic": "Geography"
+    },
+    {
+        "id": 17,
+        "statement": "The Statue of Liberty was a gift from Germany to the United States.",
+        "true": 0,
+        "topic": "History"
+    },
+    {
+        "id": 18,
+        "statement": "If properly stored in an airtight container, honey doesn’t spoil.",
+        "true": 1,
+        "topic": "Science"
+    },
+    {
+        "id": 19,
+        "statement": "Mount Kilimanjaro is the tallest mountain in the world.",
+        "true": 0,
+        "topic": "Geography"
+    },
+    {
+        "id": 20,
+        "statement": "Human activities are the main force of climate change.",
+        "true": 1,
+        "topic": "Science and Environment"
     }
 ]
