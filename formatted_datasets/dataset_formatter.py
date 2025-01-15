@@ -1,11 +1,21 @@
 import random
 from datasets import load_dataset
+from openai import OpenAI
 
-# Load a specific split of the dataset
-ds1 = load_dataset("armanc/ScienceQA", split="train")
+client = OpenAI()
 
-# Shuffle the dataset
-ds1 = ds1.shuffle(seed=42)
-
-# Print the first two rows
-print(ds1[1])
+def format_data(dataset, prmpt):
+    response = client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=[
+        {
+            "role": "developer", 
+            "content": f"{prmpt}"
+        },
+        {
+            "role": "user", 
+            "content": f"{dataset}"
+        }
+    ],
+    
+    # TODO write fewshot examples, format into json, 
