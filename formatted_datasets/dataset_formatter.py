@@ -16,6 +16,6 @@ def format_data(dataset, prmpt):
             "role": "user", 
             "content": f"{dataset}"
         }
-    ],
+    ],)
     
     # TODO write fewshot examples, format into json, 
