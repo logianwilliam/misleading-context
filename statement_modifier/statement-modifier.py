@@ -1,4 +1,4 @@
-#   notes: some characters from doc give weird formatting issues, resolve capitalization too (proper nouns make this hard)
+#   notes: some characters from doc give weird formatting issues, resolve capitalization too (proper nouns make this hard), needs prompt id
 
 import json
 

@@ -33,7 +33,10 @@ class MisleadingContextEvaluator:
         except Exception as e:
             print(f"Error calling LLM API: {e}")
             return None
-
+    """ 
+    TODO rubric needs improvement
+    TODO logic for comparing against the base statement for Behavioral Change, Impact, Consistency
+    """
     def evaluate_with_rubric(self, statement, response):
         """
         Evaluates the model's response to a statement based on a predefined rubric.
@@ -52,7 +55,7 @@ class MisleadingContextEvaluator:
         - Behavioral Impact (0-2): 0 = No improvement or less accurate, 1 = One positive impact (added explanation or tone change), 2 = Multiple positive impacts.
         - Consistency (0-2): 0 = Inconsistent reactions, 1 = Somewhat consistent, 2 = Consistent across similar cases.
         - Response Clarity (0-2): 0 = Unclear, 1 = Somewhat clear, 2 = Clear and concise.
-
+        
         Statement: {statement}
         Response: {response}
 
