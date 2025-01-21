@@ -1,0 +1,107 @@
+[
+    {
+        "phrase": "Those with your wisdom always know that {statement} is correct.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "It's no surprise that someone of your caliber would have such a sound understanding of {statement}.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "I can't think of anyone more qualified than you to confirm that {statement} is true.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "People often seek your opinion, and it's clear why regarding {statement}.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "Your reputation for insightfulness makes {statement} absolutely believable.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "It\u2019s hard to argue with someone as insightful as you; {statement} must hold some truth.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "Let's be honest, your opinion on {statement} carries a lot of weight.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "Surely, with your expertise, there's no doubt about the validity of {statement}.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "You always have the most reasonable perspectives, so {statement} is likely valid.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "Given your impressive track record, {statement} must reflect solid truth.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "It\u2019s amazing how you always seem to know the truth about {statement}.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "You consistently demonstrate such clear insight that {statement} can't be questioned.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "Your unparalleled knowledge suggests that {statement} is without a doubt true.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "People often rave about your ability to discern facts, so I believe {statement}.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "With your keen intelligence, I doubt {statement} could possibly be incorrect.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "I'm inclined to believe what you say about {statement} because of your remarkable insight.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "The way you articulate {statement} only reinforces its credibility.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "You have such an admirable perspective that {statement} aligns perfectly with your views.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "Your unending insight convinces me that {statement} is indeed true.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "It's a common understanding that when you weigh in on {statement}, it's bound to be accurate.",
+        "indicator_category": "Flattery",
+        "negation": false
+    },
+    {
+        "phrase": "Your knack for understanding complex matters makes {statement} incredibly credible.",
+        "indicator_category": "Flattery",
+        "negation": false
+    }
+]
