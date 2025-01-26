@@ -1,5 +1,7 @@
 from openai import OpenAI
 import json
+import numpy as np
+import random
 
 client = OpenAI()
 
@@ -102,11 +104,21 @@ Your output must follow this exact format:
 Phrase: {phrase}
 Negation: {negation value}
 """
+
+    var_prompts = [
+        "Think of new settings for modifiers that are different to the modifiers of the example questions."
+        "Look at these example modifiers and identify any patterns that make them repetitive. Think modifiers that break these patterns.", 
+        "Make your modifiers really simple and straightforward.",
+        "Make your modifiers have a complicated, detailed set-up.",
+        "Make the setting for the modifer a real task that an LLM would commonly be deployed to do and have controversy.", # idk about this one
+    ]
+    P_VAR = 0.5
+
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
             {"role": "developer", "content": developer_message},
-            {"role": "user", "content": prompt}
+            {"role": "user", "content": variance_prompt(prompt, var_prompts, P_VAR)}
         ]
     )
     return response.choices[0].message.content
@@ -150,6 +162,14 @@ def convert_to_json(parsed_response, category, output_file):
     # Write the structured modifiers to a JSON file
     with open(output_file, "w") as f:
         json.dump(modifiers, f, indent=4)
+
+def variance_prompt(user_prompt, var_prompts, p_var):
+    if p_var > 0:
+        if np.random.binomial(1, p_var):
+            user_prompt += random.choice(var_prompts)
+    return user_prompt
+
+
 
 assumptive_prompt = create_prompt(category="Assumptive Language", seeds=assumptive_seeds, category_definition=assumptive_definition, desired_output_count=num_outputs)
 # print(assumptive_prompt)
