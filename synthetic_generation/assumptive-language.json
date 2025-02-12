@@ -1,0 +1,102 @@
+[
+    {
+        "phrase": "Many people think that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It's widely accepted that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "There's a general consensus that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Most believe that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It seems that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "People often say that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "As a matter of fact, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It's generally understood that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It's pretty clear that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Everyone is aware that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It's safe to say that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Typically, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It goes without saying that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "People generally agree that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It's reasonable to assume that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "It's believed by many that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Undoubtedly, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Without question, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Many experts indicate that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "The overwhelming majority believes that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    }
+]
