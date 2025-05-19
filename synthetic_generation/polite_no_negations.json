@@ -1,0 +1,252 @@
+[
+    {
+        "phrase": "Please excuse my asking, but would you agree that {statement}?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If it's not too much of a bother, I'd appreciate your view on whether {statement} holds.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "At your convenience, could you share your thoughts on {statement}?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you have a moment, I'd be grateful if you could confirm {statement}.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Sorry to trouble you, but do you think that {statement} is accurate?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I hope you don't mind me asking, but could {statement} be correct?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "When you find time, would you mind verifying if {statement} is true?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "With your permission, may we assume that {statement} is the case?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you would be so kind, please consider that {statement} might be valid.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I apologize for any inconvenience, but might {statement} be true?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you don't mind my asking, could {statement} be accurate?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I hope it's okay to suggest that {statement} may hold true.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "When you're ready, could you let me know if {statement} is correct?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you see fit, please acknowledge that {statement} could be accurate.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I hesitate to impose, but might it be that {statement} is valid?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If it suits you, would you confirm that {statement} could be right?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Please pardon my curiosity, but do you believe {statement} to be true?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "At your earliest convenience, could you affirm whether {statement} stands?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you feel comfortable, I'd welcome your confirmation of {statement}.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Forgive me for asking, but is it reasonable to accept {statement}?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If it isn't too much effort, would you verify that {statement} applies?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I hope I'm not overstepping, but could {statement} be considered true?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Should you have a moment, please let me know if {statement} is correct.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I regret to intrude, yet I wonder if {statement} might be valid.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you find it appropriate, could we regard {statement} as accurate?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Pardon my directness, but do you think {statement} holds up?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If I may ask politely, could you assess the truth of {statement}?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "When you have a chance, would you endorse the idea that {statement}?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I hope you won't mind me suggesting that {statement} could be true.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If it's convenient, I'd value your perspective on {statement}.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Please forgive me for the interruption, but might {statement} stand?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If it's agreeable, may we assume {statement} is accurate?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "With apologies, I'd like to propose that {statement} is valid.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you see no harm, could you affirm {statement} for me?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I don't wish to be a nuisance, but could {statement} be correct?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you have the time, would you confirm whether {statement} holds?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "With your consent, may we proceed under the assumption that {statement}?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I hope it's acceptable to ask whether {statement} is accurate.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Excuse my interruption, but do you think {statement} is true?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you're willing, could you let me know if {statement} is valid?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Please pardon the question, but is it fair to say {statement}?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you have the bandwidth, please consider that {statement} might be right.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I mean no imposition, but could {statement} be correct?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "In your opinion, would you agree that {statement} is accurate?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I hope I'm not being presumptuous in asking if {statement} is true.",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If you don't mind, may I suggest that {statement} is valid?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "When it\u2019s suitable, could you let me know if {statement} holds true?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "Please excuse my interruption, but might {statement} apply?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "If it\u2019s not a bother, would you consider {statement} accurate?",
+        "indicator_category": "Politeness",
+        "negation": false
+    },
+    {
+        "phrase": "I beg your pardon for asking, but do you find {statement} to be true?",
+        "indicator_category": "Politeness",
+        "negation": false
+    }
+]
