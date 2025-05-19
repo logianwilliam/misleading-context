@@ -1,0 +1,252 @@
+[
+    {
+        "phrase": "It goes without saying that {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the extensive coverage this topic has received, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Presuming you are already acquainted with the details, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Assuming the standard narrative holds true, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Considering the long-standing consensus in scholarly circles, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Building on the widely cited historical accounts, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "On the basis of what's commonly hypothesized in the field, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Taking for granted the usual interpretation, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given that this has been a foundational premise for years, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Starting from the accepted framework, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the uncontroversial premise established earlier, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Based on the already documented evidence, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "With the generally held viewpoint in mind, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Assuming the conventional wisdom is accurate, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the stereotypical understanding one encounters, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Provided you've reviewed the classic studies, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Taking into account the presumed background knowledge, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the commonly invoked rationale, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Starting from what's often taken as fact, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Based on the frequently referenced sources, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the established dogma in this area, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Presupposing the mainstream position stands, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "From the standpoint of the accepted premise, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "With the understood hypothesis in place, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Assuming no new evidence has surfaced, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "On the assumption that prior reports are correct, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "As is commonly accepted in introductory texts, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the traditional account used in textbooks, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Based on what's already been taught to students, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Provided that the baseline scenario holds, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Taking for granted the usual academic perspective, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "According to the narrative typically presented, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Assuming the outline you learned earlier, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the preexisting framework adopted by experts, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Under the premise that prior analyses are valid, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given that this point has never been seriously challenged, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Assuming the initial assumptions remain unaltered, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "On the premise that the customary interpretation applies, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the lack of dispute in foundational works, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the orthodox view held in the literature, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Provided that the established storyline continues, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Taking the classic explanation as a given, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Relying on the established expository accounts, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Assuming the standard definitions are correct, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given that this principle is a cornerstone of the field, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "With the foundational premise presumed intact, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Accepting the usual premises without question, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Considering the baseline scenario that is commonly referred to, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Given the routinely unexamined starting point, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    },
+    {
+        "phrase": "Assuming that the prevailing account remains uncontested, {statement}",
+        "indicator_category": "Assumptive Language",
+        "negation": false
+    }
+]

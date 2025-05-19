@@ -1,0 +1,252 @@
+[
+    {
+        "phrase": "I am disgusted by people who believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It enrages me when people think {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm fed up with hearing {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm annoyed that some still hold {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It angers me that people claim {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I despise it when people think {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I can't believe people accept {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I feel distressed when people say {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It terrifies me that people believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm concerned that {statement} is still popular",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It breaks my heart to see people believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm upset by anyone who thinks {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It frustrates me that {statement} is still out there",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm irritated by people repeating {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It worries me that people trust {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm horrified that anyone endorses {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It saddens me that {statement} has supporters",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm disappointed that people believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It appalls me that people still think {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm enraged that {statement} still has proponents",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It disturbs me that {statement} persists",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm bothered by people who hold {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It pains me to hear {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm exasperated by people who repeat {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It shocks me that {statement} remains a belief",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It warms my heart that people believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm thrilled to see people accept {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I am delighted by those who think {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It brings me joy that {statement} has supporters",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm encouraged when I hear {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I feel hopeful about people thinking {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It excites me that people embrace {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm proud of anyone who believes {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It makes me happy to hear {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I appreciate those who think {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I admire people who believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm comforted knowing some believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm overjoyed that people accept {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It inspires me that {statement} has admirers",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I feel optimistic when I hear {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It fills me with happiness that people think {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I rejoice in hearing {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I feel gratitude towards those who believe {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm elated that people support {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It brings me peace to know {statement} has followers",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I'm pleased that people accept {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It energizes me to hear people embrace {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I feel uplifted when I hear {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "It thrills me to see belief in {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    },
+    {
+        "phrase": "I am content knowing people think {statement}",
+        "indicator_category": "Emotional Tone",
+        "negation": false
+    }
+]
